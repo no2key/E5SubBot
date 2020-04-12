@@ -1,4 +1,4 @@
-module main
+module github.com/no2key/E5SubBot
 
 go 1.13
 
